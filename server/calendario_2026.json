@@ -2167,9 +2167,9 @@
         {
             "casa": "C. E. Olhodaguense",
             "visitante": "Coringudo da Zn",
-            "placar_casa": 0,
+            "placar_casa": 1,
             "placar_visitante": 0,
-            "placar_casa_capitao": 0,
+            "placar_casa_capitao": 1,
             "placar_visitante_capitao": 0
         },
         {
@@ -2207,9 +2207,9 @@
         {
             "casa": "JAKTE FC",
             "visitante": "LUIGIONEL MESSI",
-            "placar_casa": 0,
+            "placar_casa": 1,
             "placar_visitante": 0,
-            "placar_casa_capitao": 0,
+            "placar_casa_capitao": 1,
             "placar_visitante_capitao": 0
         }
     ],
