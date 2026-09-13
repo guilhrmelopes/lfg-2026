@@ -2135,18 +2135,18 @@
         {
             "casa": "Decc F.C",
             "visitante": "S.C Milagroso",
-            "placar_casa": 36,
+            "placar_casa": 35,
             "placar_visitante": 29,
-            "placar_casa_capitao": 36,
+            "placar_casa_capitao": 35,
             "placar_visitante_capitao": 29
         },
         {
             "casa": "Ronaldito FC",
             "visitante": "S.E. BURROW LSU",
-            "placar_casa": 43,
-            "placar_visitante": 24,
-            "placar_casa_capitao": 45,
-            "placar_visitante_capitao": 26
+            "placar_casa": 44,
+            "placar_visitante": 29,
+            "placar_casa_capitao": 46,
+            "placar_visitante_capitao": 31
         },
         {
             "casa": "Everbary",
@@ -2159,17 +2159,17 @@
         {
             "casa": "OPPURETTO FC10",
             "visitante": "ArroganTRI/PR",
-            "placar_casa": 8,
+            "placar_casa": 13,
             "placar_visitante": 47,
-            "placar_casa_capitao": 8,
+            "placar_casa_capitao": 13,
             "placar_visitante_capitao": 49
         },
         {
             "casa": "C. E. Olhodaguense",
             "visitante": "Coringudo da Zn",
-            "placar_casa": 41,
+            "placar_casa": 44,
             "placar_visitante": 6,
-            "placar_casa_capitao": 41,
+            "placar_casa_capitao": 44,
             "placar_visitante_capitao": 6
         },
         {
@@ -2183,17 +2183,17 @@
         {
             "casa": "caximbobol FC",
             "visitante": "Total 12 FC",
-            "placar_casa": 31,
+            "placar_casa": 39,
             "placar_visitante": 10,
-            "placar_casa_capitao": 33,
+            "placar_casa_capitao": 41,
             "placar_visitante_capitao": 10
         },
         {
             "casa": "Data CFC",
             "visitante": "Estreia da Manhã Fc",
-            "placar_casa": 39,
+            "placar_casa": 34,
             "placar_visitante": 25,
-            "placar_casa_capitao": 39,
+            "placar_casa_capitao": 34,
             "placar_visitante_capitao": 26
         },
         {
