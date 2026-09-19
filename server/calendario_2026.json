@@ -2217,17 +2217,17 @@
         {
             "casa": "S.E. BURROW LSU",
             "visitante": "Decc F.C",
-            "placar_casa": 24,
-            "placar_visitante": 5,
-            "placar_casa_capitao": 27,
-            "placar_visitante_capitao": 5
+            "placar_casa": 27,
+            "placar_visitante": 12,
+            "placar_casa_capitao": 30,
+            "placar_visitante_capitao": 12
         },
         {
             "casa": "Realdonatello",
             "visitante": "S.C Milagroso",
-            "placar_casa": 2,
+            "placar_casa": 4,
             "placar_visitante": 22,
-            "placar_casa_capitao": 2,
+            "placar_casa_capitao": 4,
             "placar_visitante_capitao": 22
         },
         {
@@ -2265,10 +2265,10 @@
         {
             "casa": "Estreia da Manhã Fc",
             "visitante": "Wakanda_sport_club",
-            "placar_casa": 24,
-            "placar_visitante": 9,
-            "placar_casa_capitao": 24,
-            "placar_visitante_capitao": 12
+            "placar_casa": 27,
+            "placar_visitante": 18,
+            "placar_casa_capitao": 27,
+            "placar_visitante_capitao": 21
         },
         {
             "casa": "Pepethinaikos AC",
@@ -2289,9 +2289,9 @@
         {
             "casa": "JAKTE FC",
             "visitante": "BOTTONS CASCAVEL",
-            "placar_casa": 9,
+            "placar_casa": 11,
             "placar_visitante": 7,
-            "placar_casa_capitao": 9,
+            "placar_casa_capitao": 11,
             "placar_visitante_capitao": 7
         }
     ],
