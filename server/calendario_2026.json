@@ -2225,10 +2225,10 @@
         {
             "casa": "Realdonatello",
             "visitante": "S.C Milagroso",
-            "placar_casa": 71,
-            "placar_visitante": 84,
-            "placar_casa_capitao": 75,
-            "placar_visitante_capitao": 88
+            "placar_casa": 72,
+            "placar_visitante": 85,
+            "placar_casa_capitao": 76,
+            "placar_visitante_capitao": 89
         },
         {
             "casa": "ArroganTRI/PR",
@@ -2249,17 +2249,17 @@
         {
             "casa": "CL11 FC",
             "visitante": "OPPURETTO FC10",
-            "placar_casa": 65,
-            "placar_visitante": 88,
-            "placar_casa_capitao": 69,
-            "placar_visitante_capitao": 92
+            "placar_casa": 74,
+            "placar_visitante": 89,
+            "placar_casa_capitao": 78,
+            "placar_visitante_capitao": 93
         },
         {
             "casa": "Total 12 FC",
             "visitante": "C. E. Olhodaguense",
-            "placar_casa": 83,
+            "placar_casa": 84,
             "placar_visitante": 75,
-            "placar_casa_capitao": 86,
+            "placar_casa_capitao": 87,
             "placar_visitante_capitao": 79
         },
         {
@@ -2289,10 +2289,10 @@
         {
             "casa": "JAKTE FC",
             "visitante": "BOTTONS CASCAVEL",
-            "placar_casa": 82,
-            "placar_visitante": 77,
-            "placar_casa_capitao": 86,
-            "placar_visitante_capitao": 81
+            "placar_casa": 83,
+            "placar_visitante": 78,
+            "placar_casa_capitao": 87,
+            "placar_visitante_capitao": 82
         }
     ],
     "Rodada 29": [
