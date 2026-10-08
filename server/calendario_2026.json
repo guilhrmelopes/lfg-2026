@@ -2355,10 +2355,10 @@
         {
             "casa": "Wakanda_sport_club",
             "visitante": "LUIGIONEL MESSI",
-            "placar_casa": 46,
-            "placar_visitante": 76,
-            "placar_casa_capitao": 47,
-            "placar_visitante_capitao": 84
+            "placar_casa": 44,
+            "placar_visitante": 74,
+            "placar_casa_capitao": 45,
+            "placar_visitante_capitao": 82
         },
         {
             "casa": "caximbobol FC",
@@ -2371,9 +2371,9 @@
         {
             "casa": "Data CFC",
             "visitante": "BOTTONS CASCAVEL",
-            "placar_casa": 43,
+            "placar_casa": 41,
             "placar_visitante": 35,
-            "placar_casa_capitao": 44,
+            "placar_casa_capitao": 42,
             "placar_visitante_capitao": 35
         }
     ],
