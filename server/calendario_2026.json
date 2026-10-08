@@ -2307,57 +2307,57 @@
         {
             "casa": "S.E. BURROW LSU",
             "visitante": "ArroganTRI/PR",
-            "placar_casa": 53,
+            "placar_casa": 86,
             "placar_visitante": 0,
-            "placar_casa_capitao": 54,
+            "placar_casa_capitao": 87,
             "placar_visitante_capitao": 0
         },
         {
             "casa": "S.C Milagroso",
             "visitante": "Coringudo da Zn",
-            "placar_casa": 56,
+            "placar_casa": 74,
             "placar_visitante": 11,
-            "placar_casa_capitao": 57,
+            "placar_casa_capitao": 75,
             "placar_visitante_capitao": 11
         },
         {
             "casa": "Ronaldito FC",
             "visitante": "CL11 FC",
-            "placar_casa": 53,
-            "placar_visitante": 18,
-            "placar_casa_capitao": 53,
-            "placar_visitante_capitao": 19
+            "placar_casa": 70,
+            "placar_visitante": 30,
+            "placar_casa_capitao": 70,
+            "placar_visitante_capitao": 31
         },
         {
             "casa": "Everbary",
             "visitante": "Total 12 FC",
-            "placar_casa": 63,
+            "placar_casa": 70,
             "placar_visitante": 20,
-            "placar_casa_capitao": 64,
+            "placar_casa_capitao": 71,
             "placar_visitante_capitao": 20
         },
         {
             "casa": "OPPURETTO FC10",
             "visitante": "Estreia da Manhã Fc",
-            "placar_casa": 20,
-            "placar_visitante": 34,
-            "placar_casa_capitao": 21,
-            "placar_visitante_capitao": 35
+            "placar_casa": 31,
+            "placar_visitante": 58,
+            "placar_casa_capitao": 32,
+            "placar_visitante_capitao": 59
         },
         {
             "casa": "C. E. Olhodaguense",
             "visitante": "Pepethinaikos AC",
-            "placar_casa": 52,
-            "placar_visitante": 39,
-            "placar_casa_capitao": 53,
-            "placar_visitante_capitao": 39
+            "placar_casa": 57,
+            "placar_visitante": 54,
+            "placar_casa_capitao": 58,
+            "placar_visitante_capitao": 54
         },
         {
             "casa": "Wakanda_sport_club",
             "visitante": "LUIGIONEL MESSI",
-            "placar_casa": 44,
+            "placar_casa": 88,
             "placar_visitante": 74,
-            "placar_casa_capitao": 45,
+            "placar_casa_capitao": 89,
             "placar_visitante_capitao": 82
         },
         {
@@ -2371,10 +2371,10 @@
         {
             "casa": "Data CFC",
             "visitante": "BOTTONS CASCAVEL",
-            "placar_casa": 41,
-            "placar_visitante": 35,
-            "placar_casa_capitao": 42,
-            "placar_visitante_capitao": 35
+            "placar_casa": 81,
+            "placar_visitante": 66,
+            "placar_casa_capitao": 83,
+            "placar_visitante_capitao": 66
         }
     ],
     "Rodada 30": [
