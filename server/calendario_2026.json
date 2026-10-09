@@ -2299,82 +2299,82 @@
         {
             "casa": "Decc F.C",
             "visitante": "Realdonatello",
-            "placar_casa": 49,
-            "placar_visitante": 37,
-            "placar_casa_capitao": 50,
-            "placar_visitante_capitao": 39
+            "placar_casa": 60,
+            "placar_visitante": 50,
+            "placar_casa_capitao": 0,
+            "placar_visitante_capitao": 5
         },
         {
             "casa": "S.E. BURROW LSU",
             "visitante": "ArroganTRI/PR",
-            "placar_casa": 79,
-            "placar_visitante": 45,
-            "placar_casa_capitao": 82,
-            "placar_visitante_capitao": 49
+            "placar_casa": 91,
+            "placar_visitante": 72,
+            "placar_casa_capitao": 9,
+            "placar_visitante_capitao": 12
         },
         {
             "casa": "S.C Milagroso",
             "visitante": "Coringudo da Zn",
-            "placar_casa": 94,
-            "placar_visitante": 19,
-            "placar_casa_capitao": 97,
-            "placar_visitante_capitao": 19
+            "placar_casa": 114,
+            "placar_visitante": 34,
+            "placar_casa_capitao": 9,
+            "placar_visitante_capitao": 0
         },
         {
             "casa": "Ronaldito FC",
             "visitante": "CL11 FC",
-            "placar_casa": 88,
-            "placar_visitante": 72,
-            "placar_casa_capitao": 91,
-            "placar_visitante_capitao": 75
+            "placar_casa": 102,
+            "placar_visitante": 92,
+            "placar_casa_capitao": 9,
+            "placar_visitante_capitao": 9
         },
         {
             "casa": "Everbary",
             "visitante": "Total 12 FC",
-            "placar_casa": 107,
-            "placar_visitante": 73,
-            "placar_casa_capitao": 110,
-            "placar_visitante_capitao": 76
+            "placar_casa": 130,
+            "placar_visitante": 88,
+            "placar_casa_capitao": 9,
+            "placar_visitante_capitao": 9
         },
         {
             "casa": "OPPURETTO FC10",
             "visitante": "Estreia da Manhã Fc",
-            "placar_casa": 77,
-            "placar_visitante": 80,
-            "placar_casa_capitao": 80,
-            "placar_visitante_capitao": 84
+            "placar_casa": 95,
+            "placar_visitante": 95,
+            "placar_casa_capitao": 9,
+            "placar_visitante_capitao": 12
         },
         {
             "casa": "C. E. Olhodaguense",
             "visitante": "Pepethinaikos AC",
-            "placar_casa": 94,
-            "placar_visitante": 97,
-            "placar_casa_capitao": 97,
-            "placar_visitante_capitao": 100
+            "placar_casa": 114,
+            "placar_visitante": 105,
+            "placar_casa_capitao": 9,
+            "placar_visitante_capitao": 9
         },
         {
             "casa": "Wakanda_sport_club",
             "visitante": "LUIGIONEL MESSI",
-            "placar_casa": 109,
-            "placar_visitante": 116,
-            "placar_casa_capitao": 112,
-            "placar_visitante_capitao": 119
+            "placar_casa": 125,
+            "placar_visitante": 137,
+            "placar_casa_capitao": 9,
+            "placar_visitante_capitao": 9
         },
         {
             "casa": "caximbobol FC",
             "visitante": "JAKTE FC",
-            "placar_casa": 103,
-            "placar_visitante": 73,
-            "placar_casa_capitao": 106,
-            "placar_visitante_capitao": 75
+            "placar_casa": 112,
+            "placar_visitante": 82,
+            "placar_casa_capitao": 9,
+            "placar_visitante_capitao": 8
         },
         {
             "casa": "Data CFC",
             "visitante": "BOTTONS CASCAVEL",
-            "placar_casa": 84,
-            "placar_visitante": 90,
-            "placar_casa_capitao": 87,
-            "placar_visitante_capitao": 92
+            "placar_casa": 103,
+            "placar_visitante": 106,
+            "placar_casa_capitao": 9,
+            "placar_visitante_capitao": 8
         }
     ],
     "Rodada 30": [
