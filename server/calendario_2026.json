@@ -2397,9 +2397,9 @@
         {
             "casa": "CL11 FC",
             "visitante": "S.E. BURROW LSU",
-            "placar_casa": 19,
+            "placar_casa": 22,
             "placar_visitante": 20,
-            "placar_casa_capitao": 22,
+            "placar_casa_capitao": 25,
             "placar_visitante_capitao": 23
         },
         {
@@ -2421,9 +2421,9 @@
         {
             "casa": "Pepethinaikos AC",
             "visitante": "Everbary",
-            "placar_casa": 45,
+            "placar_casa": 41,
             "placar_visitante": 6,
-            "placar_casa_capitao": 48,
+            "placar_casa_capitao": 44,
             "placar_visitante_capitao": 6
         },
         {
@@ -2453,9 +2453,9 @@
         {
             "casa": "Data CFC",
             "visitante": "caximbobol FC",
-            "placar_casa": 21,
+            "placar_casa": 24,
             "placar_visitante": 42,
-            "placar_casa_capitao": 21,
+            "placar_casa_capitao": 24,
             "placar_visitante_capitao": 45
         }
     ],
