@@ -2397,18 +2397,18 @@
         {
             "casa": "CL11 FC",
             "visitante": "S.E. BURROW LSU",
-            "placar_casa": 74,
-            "placar_visitante": 53,
-            "placar_casa_capitao": 74,
-            "placar_visitante_capitao": 56
+            "placar_casa": 81,
+            "placar_visitante": 70,
+            "placar_casa_capitao": 81,
+            "placar_visitante_capitao": 73
         },
         {
             "casa": "Total 12 FC",
             "visitante": "S.C Milagroso",
-            "placar_casa": 62,
-            "placar_visitante": 49,
-            "placar_casa_capitao": 62,
-            "placar_visitante_capitao": 49
+            "placar_casa": 70,
+            "placar_visitante": 68,
+            "placar_casa_capitao": 70,
+            "placar_visitante_capitao": 68
         },
         {
             "casa": "Estreia da Manhã Fc",
@@ -2429,10 +2429,10 @@
         {
             "casa": "LUIGIONEL MESSI",
             "visitante": "OPPURETTO FC10",
-            "placar_casa": 70,
-            "placar_visitante": 67,
-            "placar_casa_capitao": 73,
-            "placar_visitante_capitao": 69
+            "placar_casa": 78,
+            "placar_visitante": 75,
+            "placar_casa_capitao": 81,
+            "placar_visitante_capitao": 77
         },
         {
             "casa": "JAKTE FC",
@@ -2445,18 +2445,18 @@
         {
             "casa": "BOTTONS CASCAVEL",
             "visitante": "Wakanda_sport_club",
-            "placar_casa": 59,
-            "placar_visitante": 49,
-            "placar_casa_capitao": 62,
-            "placar_visitante_capitao": 52
+            "placar_casa": 67,
+            "placar_visitante": 57,
+            "placar_casa_capitao": 70,
+            "placar_visitante_capitao": 60
         },
         {
             "casa": "Data CFC",
             "visitante": "caximbobol FC",
-            "placar_casa": 69,
-            "placar_visitante": 71,
-            "placar_casa_capitao": 69,
-            "placar_visitante_capitao": 74
+            "placar_casa": 71,
+            "placar_visitante": 81,
+            "placar_casa_capitao": 71,
+            "placar_visitante_capitao": 84
         }
     ],
     "Rodada 31": [
