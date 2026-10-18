@@ -2487,9 +2487,9 @@
         {
             "casa": "S.E. BURROW LSU",
             "visitante": "Estreia da Manhã Fc",
-            "placar_casa": 58,
+            "placar_casa": 72,
             "placar_visitante": 29,
-            "placar_casa_capitao": 59,
+            "placar_casa_capitao": 73,
             "placar_visitante_capitao": 30
         },
         {
@@ -2519,18 +2519,18 @@
         {
             "casa": "OPPURETTO FC10",
             "visitante": "BOTTONS CASCAVEL",
-            "placar_casa": 46,
-            "placar_visitante": 29,
-            "placar_casa_capitao": 51,
-            "placar_visitante_capitao": 29
+            "placar_casa": 66,
+            "placar_visitante": 31,
+            "placar_casa_capitao": 66,
+            "placar_visitante_capitao": 31
         },
         {
             "casa": "C. E. Olhodaguense",
             "visitante": "Data CFC",
-            "placar_casa": 60,
-            "placar_visitante": 62,
-            "placar_casa_capitao": 66,
-            "placar_visitante_capitao": 62
+            "placar_casa": 64,
+            "placar_visitante": 67,
+            "placar_casa_capitao": 70,
+            "placar_visitante_capitao": 67
         },
         {
             "casa": "Wakanda_sport_club",
