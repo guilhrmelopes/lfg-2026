@@ -2463,9 +2463,9 @@
         {
             "casa": "Decc F.C",
             "visitante": "Coringudo da Zn",
-            "placar_casa": 54,
+            "placar_casa": 65,
             "placar_visitante": 16,
-            "placar_casa_capitao": 54,
+            "placar_casa_capitao": 66,
             "placar_visitante_capitao": 16
         },
         {
@@ -2479,10 +2479,10 @@
         {
             "casa": "Realdonatello",
             "visitante": "Total 12 FC",
-            "placar_casa": 41,
-            "placar_visitante": 68,
-            "placar_casa_capitao": 42,
-            "placar_visitante_capitao": 71
+            "placar_casa": 58,
+            "placar_visitante": 71,
+            "placar_casa_capitao": 61,
+            "placar_visitante_capitao": 74
         },
         {
             "casa": "S.E. BURROW LSU",
@@ -2495,50 +2495,50 @@
         {
             "casa": "S.C Milagroso",
             "visitante": "Pepethinaikos AC",
-            "placar_casa": 42,
-            "placar_visitante": 84,
-            "placar_casa_capitao": 42,
-            "placar_visitante_capitao": 85
+            "placar_casa": 73,
+            "placar_visitante": 89,
+            "placar_casa_capitao": 76,
+            "placar_visitante_capitao": 92
         },
         {
             "casa": "Ronaldito FC",
             "visitante": "LUIGIONEL MESSI",
-            "placar_casa": 67,
-            "placar_visitante": 77,
-            "placar_casa_capitao": 70,
-            "placar_visitante_capitao": 80
+            "placar_casa": 71,
+            "placar_visitante": 86,
+            "placar_casa_capitao": 74,
+            "placar_visitante_capitao": 89
         },
         {
             "casa": "Everbary",
             "visitante": "JAKTE FC",
-            "placar_casa": 75,
+            "placar_casa": 88,
             "placar_visitante": 86,
-            "placar_casa_capitao": 76,
+            "placar_casa_capitao": 89,
             "placar_visitante_capitao": 89
         },
         {
             "casa": "OPPURETTO FC10",
             "visitante": "BOTTONS CASCAVEL",
-            "placar_casa": 89,
-            "placar_visitante": 58,
-            "placar_casa_capitao": 89,
-            "placar_visitante_capitao": 58
+            "placar_casa": 108,
+            "placar_visitante": 62,
+            "placar_casa_capitao": 113,
+            "placar_visitante_capitao": 62
         },
         {
             "casa": "C. E. Olhodaguense",
             "visitante": "Data CFC",
-            "placar_casa": 66,
-            "placar_visitante": 104,
-            "placar_casa_capitao": 72,
-            "placar_visitante_capitao": 116
+            "placar_casa": 73,
+            "placar_visitante": 109,
+            "placar_casa_capitao": 79,
+            "placar_visitante_capitao": 112
         },
         {
             "casa": "Wakanda_sport_club",
             "visitante": "caximbobol FC",
-            "placar_casa": 66,
-            "placar_visitante": 100,
-            "placar_casa_capitao": 66,
-            "placar_visitante_capitao": 101
+            "placar_casa": 73,
+            "placar_visitante": 110,
+            "placar_casa_capitao": 73,
+            "placar_visitante_capitao": 111
         }
     ],
     "Rodada 32": [
