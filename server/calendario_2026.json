@@ -2487,25 +2487,25 @@
         {
             "casa": "S.E. BURROW LSU",
             "visitante": "Estreia da Manhã Fc",
-            "placar_casa": 58,
-            "placar_visitante": 52,
-            "placar_casa_capitao": 59,
-            "placar_visitante_capitao": 53
+            "placar_casa": 65,
+            "placar_visitante": 66,
+            "placar_casa_capitao": 66,
+            "placar_visitante_capitao": 67
         },
         {
             "casa": "S.C Milagroso",
             "visitante": "Pepethinaikos AC",
-            "placar_casa": 67,
+            "placar_casa": 73,
             "placar_visitante": 89,
-            "placar_casa_capitao": 70,
+            "placar_casa_capitao": 76,
             "placar_visitante_capitao": 92
         },
         {
             "casa": "Ronaldito FC",
             "visitante": "LUIGIONEL MESSI",
-            "placar_casa": 73,
+            "placar_casa": 82,
             "placar_visitante": 86,
-            "placar_casa_capitao": 76,
+            "placar_casa_capitao": 85,
             "placar_visitante_capitao": 89
         },
         {
@@ -2519,17 +2519,17 @@
         {
             "casa": "OPPURETTO FC10",
             "visitante": "BOTTONS CASCAVEL",
-            "placar_casa": 105,
-            "placar_visitante": 63,
-            "placar_casa_capitao": 110,
-            "placar_visitante_capitao": 63
+            "placar_casa": 108,
+            "placar_visitante": 77,
+            "placar_casa_capitao": 113,
+            "placar_visitante_capitao": 81
         },
         {
             "casa": "C. E. Olhodaguense",
             "visitante": "Data CFC",
-            "placar_casa": 73,
+            "placar_casa": 80,
             "placar_visitante": 109,
-            "placar_casa_capitao": 79,
+            "placar_casa_capitao": 86,
             "placar_visitante_capitao": 112
         },
         {
