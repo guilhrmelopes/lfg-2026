@@ -2495,17 +2495,17 @@
         {
             "casa": "S.C Milagroso",
             "visitante": "Pepethinaikos AC",
-            "placar_casa": 73,
+            "placar_casa": 67,
             "placar_visitante": 89,
-            "placar_casa_capitao": 76,
+            "placar_casa_capitao": 70,
             "placar_visitante_capitao": 92
         },
         {
             "casa": "Ronaldito FC",
             "visitante": "LUIGIONEL MESSI",
-            "placar_casa": 71,
+            "placar_casa": 73,
             "placar_visitante": 86,
-            "placar_casa_capitao": 74,
+            "placar_casa_capitao": 76,
             "placar_visitante_capitao": 89
         },
         {
@@ -2519,10 +2519,10 @@
         {
             "casa": "OPPURETTO FC10",
             "visitante": "BOTTONS CASCAVEL",
-            "placar_casa": 108,
-            "placar_visitante": 62,
-            "placar_casa_capitao": 113,
-            "placar_visitante_capitao": 62
+            "placar_casa": 105,
+            "placar_visitante": 63,
+            "placar_casa_capitao": 110,
+            "placar_visitante_capitao": 63
         },
         {
             "casa": "C. E. Olhodaguense",
