@@ -2487,26 +2487,26 @@
         {
             "casa": "S.E. BURROW LSU",
             "visitante": "Estreia da Manhã Fc",
-            "placar_casa": 70,
-            "placar_visitante": 65,
-            "placar_casa_capitao": 71,
-            "placar_visitante_capitao": 66
+            "placar_casa": 62,
+            "placar_visitante": 67,
+            "placar_casa_capitao": 63,
+            "placar_visitante_capitao": 68
         },
         {
             "casa": "S.C Milagroso",
             "visitante": "Pepethinaikos AC",
-            "placar_casa": 76,
+            "placar_casa": 73,
             "placar_visitante": 89,
-            "placar_casa_capitao": 79,
+            "placar_casa_capitao": 76,
             "placar_visitante_capitao": 92
         },
         {
             "casa": "Ronaldito FC",
             "visitante": "LUIGIONEL MESSI",
-            "placar_casa": 78,
-            "placar_visitante": 91,
-            "placar_casa_capitao": 81,
-            "placar_visitante_capitao": 94
+            "placar_casa": 80,
+            "placar_visitante": 89,
+            "placar_casa_capitao": 83,
+            "placar_visitante_capitao": 95
         },
         {
             "casa": "Everbary",
@@ -2519,26 +2519,26 @@
         {
             "casa": "OPPURETTO FC10",
             "visitante": "BOTTONS CASCAVEL",
-            "placar_casa": 110,
-            "placar_visitante": 68,
-            "placar_casa_capitao": 115,
-            "placar_visitante_capitao": 68
+            "placar_casa": 105,
+            "placar_visitante": 72,
+            "placar_casa_capitao": 110,
+            "placar_visitante_capitao": 76
         },
         {
             "casa": "C. E. Olhodaguense",
             "visitante": "Data CFC",
-            "placar_casa": 80,
+            "placar_casa": 81,
             "placar_visitante": 109,
-            "placar_casa_capitao": 86,
+            "placar_casa_capitao": 85,
             "placar_visitante_capitao": 112
         },
         {
             "casa": "Wakanda_sport_club",
             "visitante": "caximbobol FC",
-            "placar_casa": 78,
-            "placar_visitante": 115,
-            "placar_casa_capitao": 78,
-            "placar_visitante_capitao": 116
+            "placar_casa": 82,
+            "placar_visitante": 112,
+            "placar_casa_capitao": 86,
+            "placar_visitante_capitao": 113
         }
     ],
     "Rodada 32": [
