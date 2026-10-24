@@ -2545,82 +2545,82 @@
         {
             "casa": "CL11 FC",
             "visitante": "Decc F.C",
-            "placar_casa": -1,
-            "placar_visitante": 16,
-            "placar_casa_capitao": -1,
-            "placar_visitante_capitao": 18
+            "placar_casa": 75,
+            "placar_visitante": 45,
+            "placar_casa_capitao": 76,
+            "placar_visitante_capitao": 48
         },
         {
             "casa": "Total 12 FC",
             "visitante": "Coringudo da Zn",
-            "placar_casa": 19,
-            "placar_visitante": 5,
-            "placar_casa_capitao": 19,
-            "placar_visitante_capitao": 5
+            "placar_casa": 68,
+            "placar_visitante": 30,
+            "placar_casa_capitao": 71,
+            "placar_visitante_capitao": 30
         },
         {
             "casa": "Estreia da Manhã Fc",
             "visitante": "ArroganTRI/PR",
-            "placar_casa": 15,
-            "placar_visitante": 4,
-            "placar_casa_capitao": 15,
-            "placar_visitante_capitao": 4
+            "placar_casa": 64,
+            "placar_visitante": 30,
+            "placar_casa_capitao": 67,
+            "placar_visitante_capitao": 33
         },
         {
             "casa": "Pepethinaikos AC",
             "visitante": "Realdonatello",
-            "placar_casa": 4,
-            "placar_visitante": 0,
-            "placar_casa_capitao": 4,
-            "placar_visitante_capitao": 0
+            "placar_casa": 60,
+            "placar_visitante": 23,
+            "placar_casa_capitao": 63,
+            "placar_visitante_capitao": 23
         },
         {
             "casa": "LUIGIONEL MESSI",
             "visitante": "S.E. BURROW LSU",
-            "placar_casa": 16,
-            "placar_visitante": 16,
-            "placar_casa_capitao": 16,
-            "placar_visitante_capitao": 16
+            "placar_casa": 75,
+            "placar_visitante": 51,
+            "placar_casa_capitao": 78,
+            "placar_visitante_capitao": 54
         },
         {
             "casa": "JAKTE FC",
             "visitante": "S.C Milagroso",
-            "placar_casa": 65,
-            "placar_visitante": 9,
-            "placar_casa_capitao": 68,
-            "placar_visitante_capitao": 9
+            "placar_casa": 106,
+            "placar_visitante": 43,
+            "placar_casa_capitao": 109,
+            "placar_visitante_capitao": 43
         },
         {
             "casa": "BOTTONS CASCAVEL",
             "visitante": "Ronaldito FC",
-            "placar_casa": 23,
-            "placar_visitante": 13,
-            "placar_casa_capitao": 23,
-            "placar_visitante_capitao": 13
+            "placar_casa": 62,
+            "placar_visitante": 46,
+            "placar_casa_capitao": 65,
+            "placar_visitante_capitao": 49
         },
         {
             "casa": "Data CFC",
             "visitante": "Everbary",
-            "placar_casa": 12,
-            "placar_visitante": 5,
-            "placar_casa_capitao": 12,
-            "placar_visitante_capitao": 5
+            "placar_casa": 41,
+            "placar_visitante": 53,
+            "placar_casa_capitao": 44,
+            "placar_visitante_capitao": 56
         },
         {
             "casa": "caximbobol FC",
             "visitante": "OPPURETTO FC10",
-            "placar_casa": 0,
-            "placar_visitante": 0,
-            "placar_casa_capitao": 0,
-            "placar_visitante_capitao": 0
+            "placar_casa": 47,
+            "placar_visitante": 35,
+            "placar_casa_capitao": 50,
+            "placar_visitante_capitao": 35
         },
         {
             "casa": "Wakanda_sport_club",
             "visitante": "C. E. Olhodaguense",
-            "placar_casa": 19,
-            "placar_visitante": 20,
-            "placar_casa_capitao": 19,
-            "placar_visitante_capitao": 20
+            "placar_casa": 66,
+            "placar_visitante": 64,
+            "placar_casa_capitao": 69,
+            "placar_visitante_capitao": 67
         }
     ],
     "Rodada 33": [
