@@ -2627,10 +2627,10 @@
         {
             "casa": "Decc F.C",
             "visitante": "Total 12 FC",
-            "placar_casa": 11,
-            "placar_visitante": 33,
-            "placar_casa_capitao": 11,
-            "placar_visitante_capitao": 33
+            "placar_casa": 16,
+            "placar_visitante": 48,
+            "placar_casa_capitao": 16,
+            "placar_visitante_capitao": 48
         },
         {
             "casa": "CL11 FC",
@@ -2667,18 +2667,18 @@
         {
             "casa": "S.E. BURROW LSU",
             "visitante": "BOTTONS CASCAVEL",
-            "placar_casa": 53,
-            "placar_visitante": 18,
-            "placar_casa_capitao": 57,
-            "placar_visitante_capitao": 18
+            "placar_casa": 55,
+            "placar_visitante": 28,
+            "placar_casa_capitao": 59,
+            "placar_visitante_capitao": 28
         },
         {
             "casa": "S.C Milagroso",
             "visitante": "Data CFC",
-            "placar_casa": 47,
-            "placar_visitante": 31,
-            "placar_casa_capitao": 52,
-            "placar_visitante_capitao": 35
+            "placar_casa": 48,
+            "placar_visitante": 39,
+            "placar_casa_capitao": 53,
+            "placar_visitante_capitao": 43
         },
         {
             "casa": "Ronaldito FC",
@@ -2699,9 +2699,9 @@
         {
             "casa": "OPPURETTO FC10",
             "visitante": "C. E. Olhodaguense",
-            "placar_casa": 63,
+            "placar_casa": 62,
             "placar_visitante": 45,
-            "placar_casa_capitao": 68,
+            "placar_casa_capitao": 67,
             "placar_visitante_capitao": 45
         }
     ],
