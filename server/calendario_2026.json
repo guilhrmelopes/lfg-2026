@@ -2635,17 +2635,17 @@
         {
             "casa": "CL11 FC",
             "visitante": "Estreia da Manhã Fc",
-            "placar_casa": 62,
+            "placar_casa": 67,
             "placar_visitante": 69,
-            "placar_casa_capitao": 62,
+            "placar_casa_capitao": 67,
             "placar_visitante_capitao": 79
         },
         {
             "casa": "Coringudo da Zn",
             "visitante": "Pepethinaikos AC",
-            "placar_casa": 26,
+            "placar_casa": 39,
             "placar_visitante": 72,
-            "placar_casa_capitao": 26,
+            "placar_casa_capitao": 39,
             "placar_visitante_capitao": 82
         },
         {
@@ -2675,10 +2675,10 @@
         {
             "casa": "S.C Milagroso",
             "visitante": "Data CFC",
-            "placar_casa": 69,
-            "placar_visitante": 52,
-            "placar_casa_capitao": 79,
-            "placar_visitante_capitao": 56
+            "placar_casa": 79,
+            "placar_visitante": 57,
+            "placar_casa_capitao": 89,
+            "placar_visitante_capitao": 61
         },
         {
             "casa": "Ronaldito FC",
