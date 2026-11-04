@@ -2733,9 +2733,9 @@
         {
             "casa": "JAKTE FC",
             "visitante": "Coringudo da Zn",
-            "placar_casa": 31,
+            "placar_casa": 36,
             "placar_visitante": 0,
-            "placar_casa_capitao": 33,
+            "placar_casa_capitao": 37,
             "placar_visitante_capitao": 0
         },
         {
@@ -2749,9 +2749,9 @@
         {
             "casa": "Data CFC",
             "visitante": "Realdonatello",
-            "placar_casa": 2,
+            "placar_casa": 8,
             "placar_visitante": 0,
-            "placar_casa_capitao": 4,
+            "placar_casa_capitao": 8,
             "placar_visitante_capitao": 0
         },
         {
@@ -2781,10 +2781,10 @@
         {
             "casa": "OPPURETTO FC10",
             "visitante": "Everbary",
-            "placar_casa": 4,
-            "placar_visitante": 0,
-            "placar_casa_capitao": 4,
-            "placar_visitante_capitao": 0
+            "placar_casa": 14,
+            "placar_visitante": 8,
+            "placar_casa_capitao": 14,
+            "placar_visitante_capitao": 8
         }
     ],
     "Rodada 35": [
