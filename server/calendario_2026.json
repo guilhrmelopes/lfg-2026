@@ -2733,18 +2733,18 @@
         {
             "casa": "JAKTE FC",
             "visitante": "Coringudo da Zn",
-            "placar_casa": 0,
+            "placar_casa": 27,
             "placar_visitante": 0,
-            "placar_casa_capitao": 0,
+            "placar_casa_capitao": 28,
             "placar_visitante_capitao": 0
         },
         {
             "casa": "BOTTONS CASCAVEL",
             "visitante": "ArroganTRI/PR",
-            "placar_casa": 0,
-            "placar_visitante": 0,
-            "placar_casa_capitao": 0,
-            "placar_visitante_capitao": 0
+            "placar_casa": 9,
+            "placar_visitante": 10,
+            "placar_casa_capitao": 9,
+            "placar_visitante_capitao": 10
         },
         {
             "casa": "Data CFC",
@@ -2757,9 +2757,9 @@
         {
             "casa": "caximbobol FC",
             "visitante": "S.E. BURROW LSU",
-            "placar_casa": 0,
+            "placar_casa": 6,
             "placar_visitante": 0,
-            "placar_casa_capitao": 0,
+            "placar_casa_capitao": 6,
             "placar_visitante_capitao": 0
         },
         {
@@ -2773,10 +2773,10 @@
         {
             "casa": "C. E. Olhodaguense",
             "visitante": "Ronaldito FC",
-            "placar_casa": 0,
-            "placar_visitante": 0,
-            "placar_casa_capitao": 0,
-            "placar_visitante_capitao": 0
+            "placar_casa": 12,
+            "placar_visitante": 2,
+            "placar_casa_capitao": 12,
+            "placar_visitante_capitao": 2
         },
         {
             "casa": "OPPURETTO FC10",
