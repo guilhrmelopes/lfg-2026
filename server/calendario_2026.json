@@ -2717,18 +2717,18 @@
         {
             "casa": "Pepethinaikos AC",
             "visitante": "Total 12 FC",
-            "placar_casa": 53,
-            "placar_visitante": 47,
-            "placar_casa_capitao": 61,
-            "placar_visitante_capitao": 47
+            "placar_casa": 58,
+            "placar_visitante": 52,
+            "placar_casa_capitao": 66,
+            "placar_visitante_capitao": 52
         },
         {
             "casa": "LUIGIONEL MESSI",
             "visitante": "CL11 FC",
-            "placar_casa": 59,
-            "placar_visitante": 44,
-            "placar_casa_capitao": 69,
-            "placar_visitante_capitao": 52
+            "placar_casa": 66,
+            "placar_visitante": 50,
+            "placar_casa_capitao": 76,
+            "placar_visitante_capitao": 58
         },
         {
             "casa": "JAKTE FC",
@@ -2741,50 +2741,50 @@
         {
             "casa": "BOTTONS CASCAVEL",
             "visitante": "ArroganTRI/PR",
-            "placar_casa": 35,
+            "placar_casa": 38,
             "placar_visitante": 1,
-            "placar_casa_capitao": 43,
+            "placar_casa_capitao": 46,
             "placar_visitante_capitao": 1
         },
         {
             "casa": "Data CFC",
             "visitante": "Realdonatello",
-            "placar_casa": 68,
+            "placar_casa": 83,
             "placar_visitante": 46,
-            "placar_casa_capitao": 70,
+            "placar_casa_capitao": 84,
             "placar_visitante_capitao": 56
         },
         {
             "casa": "caximbobol FC",
             "visitante": "S.E. BURROW LSU",
-            "placar_casa": 48,
-            "placar_visitante": 55,
-            "placar_casa_capitao": 56,
-            "placar_visitante_capitao": 55
+            "placar_casa": 63,
+            "placar_visitante": 59,
+            "placar_casa_capitao": 71,
+            "placar_visitante_capitao": 59
         },
         {
             "casa": "Wakanda_sport_club",
             "visitante": "S.C Milagroso",
-            "placar_casa": 65,
-            "placar_visitante": 31,
-            "placar_casa_capitao": 73,
-            "placar_visitante_capitao": 39
+            "placar_casa": 73,
+            "placar_visitante": 39,
+            "placar_casa_capitao": 81,
+            "placar_visitante_capitao": 47
         },
         {
             "casa": "C. E. Olhodaguense",
             "visitante": "Ronaldito FC",
-            "placar_casa": 53,
-            "placar_visitante": 46,
-            "placar_casa_capitao": 61,
-            "placar_visitante_capitao": 54
+            "placar_casa": 66,
+            "placar_visitante": 53,
+            "placar_casa_capitao": 74,
+            "placar_visitante_capitao": 61
         },
         {
             "casa": "OPPURETTO FC10",
             "visitante": "Everbary",
-            "placar_casa": 42,
-            "placar_visitante": 29,
-            "placar_casa_capitao": 50,
-            "placar_visitante_capitao": 37
+            "placar_casa": 53,
+            "placar_visitante": 38,
+            "placar_casa_capitao": 61,
+            "placar_visitante_capitao": 46
         }
     ],
     "Rodada 35": [
