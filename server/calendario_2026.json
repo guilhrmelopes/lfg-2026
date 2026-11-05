@@ -2709,9 +2709,9 @@
         {
             "casa": "Estreia da Manhã Fc",
             "visitante": "Decc F.C",
-            "placar_casa": 28,
+            "placar_casa": 26,
             "placar_visitante": 19,
-            "placar_casa_capitao": 36,
+            "placar_casa_capitao": 34,
             "placar_visitante_capitao": 21
         },
         {
@@ -2749,9 +2749,9 @@
         {
             "casa": "Data CFC",
             "visitante": "Realdonatello",
-            "placar_casa": 67,
+            "placar_casa": 68,
             "placar_visitante": 46,
-            "placar_casa_capitao": 69,
+            "placar_casa_capitao": 70,
             "placar_visitante_capitao": 56
         },
         {
@@ -2781,9 +2781,9 @@
         {
             "casa": "OPPURETTO FC10",
             "visitante": "Everbary",
-            "placar_casa": 40,
+            "placar_casa": 41,
             "placar_visitante": 29,
-            "placar_casa_capitao": 48,
+            "placar_casa_capitao": 49,
             "placar_visitante_capitao": 37
         }
     ],
