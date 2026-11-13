@@ -234,11 +234,31 @@ def main():
     tabela = standings(cal, rodada_atual)
     agora = datetime.now().astimezone().strftime("%H:%M")
     lider_p = tabela[0]["P"] if tabela else 1
-    probs = sorted(
-        [{"nome": t["nome"], "probTitulo": f"{t['P'] * 1.5:.1f}"} for t in tabela],
-        key=lambda x: float(x["probTitulo"]),
-        reverse=True,
-    )
+
+    # [1.0] Cálculo rigoroso e proporcional da probabilidade de título
+    def _calc_prob(tab):
+        j_disp = max(t["J"] for t in tab)
+        p_disp = max(0, 38 - j_disp) * 3
+        p_lid = max(t["P"] for t in tab)
+        candidatos = [item for item in tab if (item['P'] + p_disp) >= p_lid]
+        
+        if len(candidatos) == 1:
+            campeao = candidatos[0]["nome"]
+            return [{"nome": t["nome"], "probTitulo": "100.0" if t["nome"] == campeao else "0.0"} for t in tab]
+            
+        soma_pesos = sum(((p_disp - (p_lid - item['P']) + 1) ** 2) for item in candidatos)
+        
+        res = []
+        for t in tab:
+            if (t["P"] + p_disp) >= p_lid and soma_pesos > 0:
+                peso = ((p_disp - (p_lid - t['P']) + 1) ** 2)
+                prob = (peso / soma_pesos) * 100
+                res.append({"nome": t["nome"], "probTitulo": f"{prob:.1f}"})
+            else:
+                res.append({"nome": t["nome"], "probTitulo": "0.0"})
+        return sorted(res, key=lambda x: float(x["probTitulo"]), reverse=True)
+
+    probs = _calc_prob(tabela)
     z4 = sorted(
         [{"nome": t["nome"], "risk": f"{max(0, (1 - (t['P'] / lider_p)) * 100):.1f}"} for t in tabela],
         key=lambda x: float(x["risk"]),
